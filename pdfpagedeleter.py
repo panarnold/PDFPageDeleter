@@ -4,6 +4,7 @@
 # a) user run python pdfpagedeleter.py example.pdf 14 - script will delete page number 14
 # b) user run python pdfpagedeleter.py example.pdf 14 15 18... - script will delete page number 14, 15 and 18 and so on
 # c) user run python pdfpagedeleter.py example.pdf 14-22.. - script will delete pages from 14-22 range
+# d) user run python pdfpagedeleter.py example.pdf 14-22 27.. script will delete pages from 14-22 pages and page no.27 etc.
 # enjoy
 # X 2020 Arnold Cytrowski
 
