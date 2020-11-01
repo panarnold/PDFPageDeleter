@@ -11,7 +11,6 @@
 import PyPDF2, sys
 
 if len(sys.argv) < 3:
-    # print(len(sys.argv))
     print('usage: python pdfpagedeleter.py [filenamewithextension.pdf] [pages]')
     exit()
 
